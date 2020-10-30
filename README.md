@@ -13,7 +13,7 @@ Concepto de árbol binario en programación:
 Un árbol binario es un conjunto finito de cero o más nodos, tales que:
 
 > - Existe un nodo denominado raíz del árbol.
-- Cada nodo puede tener 0, 1 o 2 subárboles, conocidos como subárbol izquierdo y subárbol derecho.
+> - Cada nodo puede tener 0, 1 o 2 subárboles, conocidos como subárbol izquierdo y subárbol derecho.
 
 ------------
 
