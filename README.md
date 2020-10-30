@@ -2,7 +2,7 @@
 
 ------------
 
-**Programa de consola utilizando la Estructura no Lineal Árbol **
+***Programa de consola utilizando la Estructura no Lineal Árbol ***
 
 ------------
 
@@ -166,3 +166,4 @@ Con la impresión de los nuevos elementos podemos ver que ya tiene una estructur
 
 
 En conclusión, lo que aprendimos en la realización de este programa es un buen conocimiento, ya que es un tema diferente a los anteriores porque ya no se trata de una estructura lineal sino todo lo contrario, por ende cada una de las funciones ya no funcionan de la misma forma por ejemplo cuando se desea recorrer los elementos del árbol, porque no se encuentral secuencialmente sino que estan dispersos los datos. 
+
