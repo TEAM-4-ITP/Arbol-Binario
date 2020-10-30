@@ -2,7 +2,7 @@
 
 ------------
 
-***Programa de consola utilizando la Estructura no Lineal Árbol ***
+***Programa de consola utilizando la Estructura no Lineal Árbol.***
 
 ------------
 
